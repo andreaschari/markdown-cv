@@ -1,91 +1,86 @@
----
-layout: cv
-title: Isaac Newtons's CV
----
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+Andreas Chari
+============
+Software Engineering Student (3rd year)
+-------------------     ----------------------------
+github.com/andreaschari\
+Glasgow, UK\
++44 07522088933\
+andreaschari9810@gmail.com
+-----------------------------------------------
+Education
+---------
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
-
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+**MSci Software Engineering with Year Placement(2017-2022)** University of Glasgow
+	
+Work Experience
+----------
 
 
-### Research interests
+**Cypriot National Guard (2016- 2017)**
+    
+   *Signal Corps Soldier*
+   
+    Operated Communication Centre for 14 months
+    Co-created a Database System which improved by 50% the service time for each call
+    Crypto-centre / Radio Operator with Security Clearance
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Technical Experience
+--------------------
+**Projects**
 
+Cafeholics https://github.com/andreaschari/Cafeholics
 
-## Education
+    django-based web-application created for the level 2 team project of University of Glasgow.
+    
+ResDiary app
 
-`1654-1660`
-__The King's School, Grantham.__
+	Xamarin-based application created for ResDiary 
+    as part of the level 3 team project of University of Glasgow.
+    
+**Programming Languages**
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+**Python**
 
-- Sizar
+Skill level: Competent
 
-`1667 - death`
-__Trinity College, Cambridge__
+    libraries familiar with: Django, NumPy
+    used for a variety of personal and university projects which can be found on my github
 
-- Fellow
+**Java** 
 
+   Skill level: Beginner
+    
+    used mainly for university projects
 
+Basic knowledge of **C#**, **C**, **Javascript**, **HTML**, **CSS**, **React JS**
 
-## Awards
+Certifications
+----------------------------------------
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+    CCNA Routing and Switching: Introduction to Networks (05/2015)
+    CCNA Routing and Switching: Routing and Switching Essentials (04/2016)
+    Chinese for HSK 1 by Peking University on Coursera (08/2019 – 09/2019)   
 
 
-## Occupation
+Achievements / Participations
+----------------------------------------
 
-`1600`
-__Royal Mint__, London
+    Cyber Defence Exercise (CDX) 2018,Hacker Olympics 2019,
+    Do You have the GUTS? 2019, JP Morgan's Code for Good 2019,
+    GDG DevFest 2019
 
-- Warden
-- Minted coins
+Soft Skills
+----------------------------------------
+    Future-focused, Active Listening, Creativity, 
+    Teamwork, Persuasion, Critical Thinking, Time Management, Self-confidence
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+ Languages
+----------------------------------------
+    English (fluent)
+    Greek (fluent)
+    Chinese, Mandarin (beginner)
+    
+Hobbies & Interests
+-----------------------------------------
+    Artificial Intelligence, Machine Learning, Programming, Cyber Security,
+    Home Cooking, Krav Maga, Tabletop Games, Books
